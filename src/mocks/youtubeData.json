@@ -1,0 +1,96 @@
+{
+  "search": {
+    "items": [
+      {
+        "id": { "videoId": "vid1" },
+        "snippet": {
+          "title": "Build a YouTube Clone with React",
+          "channelId": "UCimg",
+          "channelTitle": "Fireship",
+          "thumbnails": { "high": { "url": "https://picsum.photos/id/1/320/180" } }
+        }
+      },
+      {
+        "id": { "videoId": "vid2" },
+        "snippet": {
+          "title": "Advanced Tailwind CSS Tips",
+          "channelId": "UCweb",
+          "channelTitle": "Web Dev Simplified",
+          "thumbnails": { "high": { "url": "https://picsum.photos/id/2/320/180" } }
+        }
+      },
+      {
+        "id": { "videoId": "vid3" },
+        "snippet": {
+          "title": "JavaScript Closures Explained",
+          "channelId": "UCjs",
+          "channelTitle": "JS Mastery",
+          "thumbnails": { "high": { "url": "https://picsum.photos/id/3/320/180" } }
+        }
+      },
+      {
+        "id": { "videoId": "vid4" },
+        "snippet": {
+          "title": "Firebase Auth Tutorial 2024",
+          "channelId": "UCimg",
+          "channelTitle": "Fireship",
+          "thumbnails": { "high": { "url": "https://picsum.photos/id/4/320/180" } }
+        }
+      },
+      {
+        "id": { "videoId": "vid5" },
+        "snippet": {
+          "title": "Python for Data Science",
+          "channelId": "UCpy",
+          "channelTitle": "PyDev",
+          "thumbnails": { "high": { "url": "https://picsum.photos/id/5/320/180" } }
+        }
+      },
+      {
+        "id": { "videoId": "vid6" },
+        "snippet": {
+          "title": "UI/UX Design Fundamentals",
+          "channelId": "UCdesign",
+          "channelTitle": "DesignCourse",
+          "thumbnails": { "high": { "url": "https://picsum.photos/id/6/320/180" } }
+        }
+      },
+      {
+        "id": { "videoId": "vid7" },
+        "snippet": {
+          "title": "Next.js 14 Full Course",
+          "channelId": "UCjs",
+          "channelTitle": "JS Mastery",
+          "thumbnails": { "high": { "url": "https://picsum.photos/id/7/320/180" } }
+        }
+      },
+      {
+        "id": { "videoId": "vid8" },
+        "snippet": {
+          "title": "How to Handle API Quotas",
+          "channelId": "UCweb",
+          "channelTitle": "Web Dev Simplified",
+          "thumbnails": { "high": { "url": "https://picsum.photos/id/8/320/180" } }
+        }
+      }
+    ]
+  },
+  "channels": {
+    "items": [
+      {
+        "id": "UCimg",
+        "snippet": { "thumbnails": { "default": { "url": "https://picsum.photos/id/64/100/100" } } }
+      },
+      {
+        "id": "UCweb",
+        "snippet": { "thumbnails": { "default": { "url": "https://picsum.photos/id/65/100/100" } } }
+      },
+      {
+        "id": "UCjs",
+        "snippet": { "thumbnails": { "default": { "url": "https://picsum.photos/id/66/100/100" } } }
+      }
+    ]
+  },
+  "activities": { "items": [] },
+  "subscriptions": { "items": [] }
+}
